@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtmBuilder.Core", "UtmBuilder.Core\UtmBuilder.Core.csproj", "{D1E8FCFF-DC2B-4F96-AE57-A5D612EBF83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E8FCFF-DC2B-4F96-AE57-A5D612EBF83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E8FCFF-DC2B-4F96-AE57-A5D612EBF83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E8FCFF-DC2B-4F96-AE57-A5D612EBF83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E8FCFF-DC2B-4F96-AE57-A5D612EBF83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
